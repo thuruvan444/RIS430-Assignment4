@@ -1,0 +1,14 @@
+Device Name,IP Address,Manufacturer,Model,Serial Number,OS Version,CPU,RAM,Storage
+192.168.2.108,192.168.2.108,Unknown (VM),Virtual Machine,N/A,Linux (Kali/Ubuntu),Intel Core i7-12700H,16GB,Unknown
+192.168.2.83,192.168.2.83,VMware,Virtual Machine,N/A,Linux,Intel Core i7-12700H,8GB,Unknown
+192.168.2.15,192.168.2.15,Acer,Nitro AN515-58,Unknown,Windows 11 Pro 64-bit,Intel Core i7-12700H (20 CPUs) ~2.7GHz,32GB,Unknown
+192.168.2.61,192.168.2.61,HP,Unknown,Unknown,Linux,Intel Core2 Duo E8400 @ 3.00GHz,4GB,Unknown
+192.168.2.85,192.168.2.85,VMware,Virtual Machine,N/A,Linux,Intel Core i7-12700H,8GB,Unknown
+192.168.2.1 (Router),192.168.2.1,Sagemcom,Unknown,Unknown,Firmware-Based,ARM-Based,Unknown,Unknown
+192.168.2.18 (LG WebOS Smart TV),192.168.2.18,LG,WebOS TV,Unknown,WebOS,Unknown,Unknown,Unknown
+192.168.2.25 (SWANN CCTV Modem),192.168.2.25,SWANN,CCTV Modem,Unknown,Embedded OS,Unknown,Unknown,Unknown
+192.168.2.27 (Android Device S21-Ultra),192.168.2.27,Samsung,Galaxy S21 Ultra,Unknown,Android 13,Snapdragon 888,12GB,128GB
+192.168.2.39 (Android Device Galaxy A-05),192.168.2.39,Samsung,Galaxy A05,Unknown,Android 12,Mediatek Helio G85,4GB,64GB
+192.168.2.29 (Epson Printer),192.168.2.29,Epson,Unknown,Unknown,Embedded OS,Unknown,Unknown,Unknown
+192.168.2.40 (MyQ Garage Device),192.168.2.40,MyQ,Garage Door Controller,Unknown,Embedded OS,Unknown,Unknown,Unknown
+192.168.2.80 (Android Device S25-Ultra),192.168.2.80,Samsung,Galaxy S25 Ultra,Unknown,Android 14,Snapdragon 8 Gen 3,16GB,512GB
